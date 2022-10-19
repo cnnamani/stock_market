@@ -1,4 +1,1 @@
-# stock_market
-This project is designed to monitor your stock portfolio.
-It provides you with live prices of your stocks and 
-you have to input your entry price and quantity bought, which enables the program to determine how your portfolio is doing in terms of profit and loss
+I'll study a few stocks from the stock tracker I previously created to give you an idea of how they are doing and utilise graphs to highlight the trend of a stock.
